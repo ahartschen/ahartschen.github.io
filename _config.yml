@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -47,12 +47,14 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
+  - name: Functional Programming
+    web_url: https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://github.com/topics/java
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
+  - name: Machine Learning
+    web_url: https://www.coursera.org/learn/machine-learning 
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
